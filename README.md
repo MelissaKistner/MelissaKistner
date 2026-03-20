@@ -40,9 +40,6 @@ Besonders schwierige Wörter können individuell markiert und gezielt wiederholt
 
 ## Design
 
-
-**Füge hier am Ende die Screenshots deiner App ein.**
-
 Das Design der App ist konsequent auf  **Reduktion, Klarheit und emotionale Sicherheit**  ausgerichtet. Ziel ist es, eine Lernumgebung zu schaffen, die Konzentration unterstützt und Kinder mit LRS nicht durch visuelle oder funktionale Überladung zusätzlich belastet.
 
 Die Benutzeroberfläche arbeitet mit großzügigem Weißraum, klaren Layoutstrukturen und einer begrenzten Anzahl gleichzeitiger Interaktionselemente. Dadurch wird der Fokus stets auf eine einzelne Aufgabe gelenkt.
@@ -69,7 +66,7 @@ Diese Form der Reflexion stärkt Selbstwahrnehmung und Selbstwirksamkeit und rü
 
 ### Gestaltung und visuelle Assets
 
-Die Bilddateien des Maskottchens  **Lora**  wurden mithilfe von  **ChatGPT**  erstellt und dienten im Projektkontext als visuelle Platzhalter zur Unterstützung von UX- und Designkonzepten.
+Die Bilddateien des Maskottchens  **Lora** dienten im Projektkontext als visuelle Platzhalter zur Unterstützung von UX- und Designkonzepten.
 
 Im Falle einer Veröffentlichung der App würden diese Illustrationen einem professionellen Designer als  **Template und gestalterische Referenz**  zur Verfügung gestellt und entsprechend überarbeitet oder neu umgesetzt.
 
