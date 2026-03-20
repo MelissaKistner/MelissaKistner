@@ -36,7 +36,7 @@ Ein Teil der deutschen Rechtschreibung basiert auf häufig verwendeten Wörtern,
 
 Besonders schwierige Wörter können individuell markiert und gezielt wiederholt werden. Ziel ist es, Sicherheit im Umgang mit häufigen Wörtern zu schaffen, die Fehlerquote zu senken und Frustration nachhaltig zu reduzieren.
 
-**<img src="Parents/Kids-Area.png" width="200">**
+**<img src="Parents-Kids-Area.png" width="200">**
 
 ## Design
 
