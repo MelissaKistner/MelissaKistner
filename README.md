@@ -30,6 +30,8 @@ Rechtschreibung folgt in vielen Bereichen klaren Regeln, die für Kinder mit LRS
 
 > _Auf kurze Vokale folgen doppelte Konsonanten._
 
+Dabei wird der eigentlich arbiträren Regel mit Hilfe einer Art Eselsbrücke ein Sinn verliehen, was sie besser im Gedächtnis verankern kann.
+
 ### 2. Memorierendes Lernen (regelunabhängige Wörter)
 
 Ein Teil der deutschen Rechtschreibung basiert auf häufig verwendeten Wörtern, die keiner eindeutigen Regel folgen (z. B. Funktionswörter). Aufbauend auf Empfehlungen für den schulischen Rechtschreibunterricht werden diese Wörter in der App über ein  **Karteikartensystem**  trainiert.
